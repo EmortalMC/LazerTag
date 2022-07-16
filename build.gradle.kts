@@ -21,7 +21,7 @@ dependencies {
     compileOnly("com.github.Minestom:Minestom:367c389bc6")
     compileOnly("com.github.EmortalMC:Immortal:cd2475004d")
 
-    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.2")
+    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
     compileOnly("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
 }
 
